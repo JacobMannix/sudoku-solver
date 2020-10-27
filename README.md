@@ -5,7 +5,7 @@
 
 > <b> Creating a sudoku solver function in python </b>
 #
-This solver uses recursion to find all the possivle combinations to solve the puzzle if desired.
+This solver uses recursion to find all the possible combinations to solve the puzzle if desired.
 #
 ### Input a given sudoku grid
 ```python
