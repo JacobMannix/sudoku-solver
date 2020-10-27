@@ -1,7 +1,7 @@
 # Sudoku Solver Concept
-[![GitHub](https://img.shields.io/github/license/jacobmannix/REPO?color=blue)](LICENSE)
-[![GitHub top language](https://img.shields.io/github/languages/top/jacobmannix/REPO)](https://github.com/JacobMannix/REPO)
-[![GitHub last commit](https://img.shields.io/github/last-commit/jacobmannix/REPO)](https://github.com/JacobMannix/REPO/commits/master)
+[![GitHub](https://img.shields.io/github/license/jacobmannix/sudoku-solver?color=blue)](LICENSE)
+[![GitHub top language](https://img.shields.io/github/languages/top/jacobmannix/sudoku-solver)](https://github.com/JacobMannix/sudoku-solver)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jacobmannix/sudoku-solver)](https://github.com/JacobMannix/sudoku-solver/commits/master)
 
 > <b> Creating a sudoku solver function in python </b>
 
