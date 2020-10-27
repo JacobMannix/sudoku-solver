@@ -1,10 +1,10 @@
-# TITLE
+# Sudoku Solver Concept
 [![GitHub](https://img.shields.io/github/license/jacobmannix/REPO?color=blue)](LICENSE)
 [![GitHub top language](https://img.shields.io/github/languages/top/jacobmannix/REPO)](https://github.com/JacobMannix/REPO)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jacobmannix/REPO)](https://github.com/JacobMannix/REPO/commits/master)
 
-> <b> Sudoku Solver Concept </b>
-A simple concept for a sudoku solver in python
+> <b> Creating a sudoku solver function in python </b>
+
 #
 ### HEADING
 ```python
